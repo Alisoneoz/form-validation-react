@@ -2,3 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+html{
+  background: url("./assets/images/pexels-jess-loiterton-4321069.jpg");
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover; 
+  height:100vh;
+}
+
